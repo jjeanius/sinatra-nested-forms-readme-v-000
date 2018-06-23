@@ -8,9 +8,9 @@ clasee Student
     @grade = params[:grade]
     STUDENTS << self
   end
- 
+
   def self.all
     STUDENTS
   end
- 
+
 end
