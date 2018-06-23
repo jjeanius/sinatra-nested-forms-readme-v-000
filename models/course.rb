@@ -13,3 +13,4 @@ class Course
     COURSES
   end
 end
+views
